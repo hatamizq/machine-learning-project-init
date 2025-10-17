@@ -1,0 +1,7 @@
+# ignore generated files by jupyter notebooks
+.ipynb_checkpoints/
+*.h5
+*.csv
+
+# Ignore Python cache files
+__pycache__/
